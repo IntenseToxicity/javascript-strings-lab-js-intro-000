@@ -1,7 +1,5 @@
 /*global concatenatedString, describe, interpolatedString, it, myString */
 
-var topic = "space"
-
 it('defines `greeting`', function() {
   expect(greeting).toEqual("Hello, everybody!")
 })
